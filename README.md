@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sayuru Samarawickrama
-- 👀 Interests: Full Stack Development, Data Science, Machine Learning
+- 👀 Interests: Full Stack Development, Data Analysis, Data Science & Machine Learning
 - 🌱 AI, ML, and the MERN stack
 - 💞️ I’m looking to collaborate on  Exciting projects in AI and web development...
 - 📫 How to reach me mailtosayuru@gmail.com
